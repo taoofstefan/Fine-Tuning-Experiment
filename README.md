@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the repository for my Master's thesis: **"Enhancing Function-Calling Precision in LLMs: A Comparative Analysis"**. This repository contains all the experimental results, the code used to test both baseline and fine-tuned models, and the scripts for fine-tuning Llama 2 7B and Mistral Instruct 7B.
+Welcome to the repository for my Master's thesis: **"In-Depth Comparative Analysis of Function-Calling in LLMs and Advancing Precision in Function-Calling for LLMs through Focused Fine-Tuning"**. This repository contains all the experimental results, the code used to test both baseline and fine-tuned models, and the scripts for fine-tuning Llama 2 7B and Mistral Instruct 7B.
 
 ## Table of Contents
 
